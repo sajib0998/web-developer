@@ -95,3 +95,23 @@ main{
 .about-info{
     text-align: center;
 }
+
+#what-i-do-description{
+    padding: 30px 150px;
+}
+.skill{
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    background-color:lightcyan;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 50px;
+    box-shadow: 4px 8px 16px;
+}
+.skills-container{
+    display: flex;
+}
+
+
+
